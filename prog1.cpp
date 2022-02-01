@@ -4,7 +4,8 @@
 Name: Hanna Zelis
 Date: 24 October 2021
 Class: CSC 2342
-Statement: This program takes three sets, universal, A, and B, and uses their bit strings to solve certain problems, including the complement of set A, the union of sets A and B, the intersection of sets A and B, A - B, and the xor of sets A and B.
+Statement: This program takes three sets, universal, A, and B, and uses their bit strings to solve certain problems, 
+including the complement of set A, the union of sets A and B, the intersection of sets A and B, A - B, and the xor of sets A and B.
 
 */
 
